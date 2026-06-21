@@ -9,5 +9,6 @@
 @import url('./base.css');
 
 /* Sections style */
+@import url('./home.css');
 @import url('./gallery.css');
 @import url('./form.css');
